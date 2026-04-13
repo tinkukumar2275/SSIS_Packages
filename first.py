@@ -13,3 +13,4 @@ arr1 = [1,2,3,4,5,6,7]
 print(get_sum(arr1))
 
 #first feature branch
+#This is the second attempts
